@@ -11,6 +11,8 @@ print("Multiplication Output: ", res1)
 res2 = divide(a,b)
 print("Divide Output: ", res2)
 
+res3 = add(a,b)
+print("Add Output: ", res3)
 
 
 

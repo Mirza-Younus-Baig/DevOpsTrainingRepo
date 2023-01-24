@@ -6,3 +6,6 @@ def divide(a, b):
         return a / b
     except ZeroDivisionError:
         return "Can't divide by zero"
+
+def add(a, b):
+    return a + b
