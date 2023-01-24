@@ -12,3 +12,5 @@ res2 = [random.randint(1, 10) for i in range(res1)]
 
 res2 = random.sample(res2, res1-20)
 print(res2)
+
+print(res2[0:10])
