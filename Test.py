@@ -21,7 +21,7 @@ print("Exponent Output: ", res4)
 
 
 res2 = divide(a,c)
-print("Divide Output for two numbers ", res2)
+print("Divide Output for a and c ", res2)
 
 # # Create a list of random numbers of size res1
 # res2 = [random.randint(1, 10) for i in range(res1)]
