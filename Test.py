@@ -8,8 +8,7 @@ c = random.randint(5, 10)
 res1 = multiply(a, c)
 print("Multiplication Output: ", res1)
 
-res2 = divide(a,c)
-print("Divide Output: ", res2)
+print("Test Run for merge conflicts generations")
 
 res3 = add(a,c)
 print("Add Output: ", res3)
@@ -20,6 +19,9 @@ print("Subtract Output: ", res5)
 res4 = exponent(a,c)
 print("Exponent Output: ", res4)
 
+
+res2 = divide(a,c)
+print("Divide Output: ", res2)
 
 # # Create a list of random numbers of size res1
 # res2 = [random.randint(1, 10) for i in range(res1)]
