@@ -2,21 +2,21 @@ import random
 from Operations import *
 
 a = random.randint(5, 10)
-b = random.randint(5, 10)
+c = random.randint(5, 10)
 
 # Multiplication of two random numbers
-res1 = multiply(a, b)
+res1 = multiply(a, c)
 print("Multiplication Output: ", res1)
 
-res2 = divide(a,b)
+res2 = divide(a,c)
 print("Divide Output: ", res2)
 
-res3 = add(a,b)
+res3 = add(a,c)
 print("Add Output: ", res3)
 
-res4 = exponent(a,b)
+res4 = exponent(a,c)
 print("Exponent Output: ", res4)
-res5 = subtract(a,b)
+res5 = subtract(a,c)
 print("Subtract Output: ", res5)
 
 # # Create a list of random numbers of size res1
