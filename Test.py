@@ -27,4 +27,4 @@ print("Exponent Output: ", res4)
 # res2 = random.sample(res2, res1-20)
 # print(res2)
 
-# print(res2[0:10])
+# print(Test)
