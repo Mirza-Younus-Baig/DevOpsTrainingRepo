@@ -18,3 +18,6 @@ def subtract(a, b):
         return a - b
     except TypeError:
         return "Can't subtract strings"
+  
+def returnNull:
+    return NULL
