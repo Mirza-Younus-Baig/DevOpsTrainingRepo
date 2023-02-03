@@ -29,5 +29,3 @@ print("Divide Output for a and c ", res2)
 
 # res2 = random.sample(res2, res1-20)
 # print(res2)
-
-# print(Test)
