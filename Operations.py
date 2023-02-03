@@ -14,6 +14,7 @@ def exponent(a, b):
     return a ** b
 
 def subtract(a, b):
-    return a - b
-
-# Add Code in master
+    try:
+        return a - b
+    except TypeError:
+        return "Can't subtract strings"
