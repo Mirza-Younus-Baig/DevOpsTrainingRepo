@@ -18,3 +18,6 @@ def subtract(a, b):
         return a - b
     except TypeError:
         return "Can't subtract strings"
+
+print("Adding lines for another commit")
+print("Adding more lines for another commit")
