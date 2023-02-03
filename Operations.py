@@ -18,3 +18,4 @@ def subtract(a, b):
         return a - b
     except TypeError:
         return "Can't subtract strings"
+print("adding lines for squash test")
