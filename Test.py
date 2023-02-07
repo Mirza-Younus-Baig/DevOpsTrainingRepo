@@ -2,6 +2,8 @@ import random
 from Operations import *
 print("This is Training Module Folder")
 
+# print(randomNumberList)
+
 a = random.randint(5, 10)
 c = random.randint(5, 10)
 
